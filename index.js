@@ -30,7 +30,7 @@ const firebaseConfig = {
                 console.log(errorCode);
                 console.log(errorMessage);
 
-                window.alert("Messaage: " + errorMessage);
+                window.alert("Message: " + errorMessage);
             });
         }
         else
